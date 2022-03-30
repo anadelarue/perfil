@@ -14,4 +14,4 @@
 	* Becaria en Asociación de la Prensa de Málaga (ene. 2020 - mar. 2020).
 	* Becaria en Editorial E-Learning (jun. 2020 - sep. 2020).
 7. Foto: 
-!(perfil_ana_ruiz.png "Imagen perfil Ana Ruiz")
+![Imagen perfil](perfil_ana_ruiz.png "Imagen perfil Ana Ruiz")
